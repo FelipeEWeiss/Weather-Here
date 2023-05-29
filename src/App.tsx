@@ -39,7 +39,7 @@ function App() {
 
   return (
     <div className="h-screen flex items-center justify-center">
-      <div className="bg-[#272E3F] w-9/12 h-5/6 rounded-2xl flex flex-col p-24">
+      <div className="bg-[#272E3F] w-9/12 h-5/6 rounded-2xl flex flex-col p-24 max-w-screen-lg">
         <div className="flex justify-around w-full pb-12">
           <div className="w-full">
             <h1 className="text-5xl pb-2">Limerick, IE</h1>
